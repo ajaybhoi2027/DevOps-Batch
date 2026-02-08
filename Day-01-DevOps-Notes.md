@@ -31,7 +31,7 @@ Every IT company follows SDLC to ensure:
 - Proper planning
 - Quality delivery
 - Less risk and errors
-![SDLC Lifecycle](images/sdlc.png)
+
 
 ---
 
